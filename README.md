@@ -1,21 +1,29 @@
-# Complexidade_algoritmos
-1. 
-## 2. N1-Complex - FEITO - TEMPO DE EXECUÇÃO DOS ALGORITMOS DE ORDENAÇÃO E PLOTANDO O CRESCIMENTO NO GRÁFICO
-Este repositório contém a análise de desempenho de três algoritmos de ordenação: **BubbleSort**, **MergeSort** e **QuickSort**.
+# Complexidade Algoritmos
 
-## Conteúdo
+Este repositório contém exercícios e análises relacionados à complexidade de algoritmos, divididos em dois diretórios principais.
 
-- Código-fonte dos algoritmos de ordenação.
-- Script para geração de gráficos comparativos.
-- Relatório completo em PDF com os resultados detalhados.
+---
+## Exercício 01. Exercício com a função geral de tempo de execução
 
-## Relatório Completo
+## Exercício 02. Diretório N1-Complex
 
-O relatório completo, incluindo a metodologia, resultados e gráficos, está disponível no arquivo [Relatório.pdf](./Relatório.pdf).
+### 📄 Descrição
+Análise do tempo de execução de algoritmos de ordenação e plotagem do crescimento em gráficos.
 
-## Como Executar
+### 📂 Conteúdo
 
-1. Certifique-se de ter o Python instalado.
-2. Instale as dependências necessárias:
+- **Código-fonte**: Implementação dos algoritmos de ordenação (**BubbleSort**, **MergeSort** e **QuickSort**).
+- **Script de gráficos**: Geração de gráficos comparativos para análise de desempenho.
+- **Relatório completo**: Resultados detalhados em PDF.
+
+### 📊 Relatório Completo
+
+O relatório completo, incluindo a metodologia, resultados e gráficos, está disponível no arquivo:  
+➡️ [Relatório.pdf](./Relatório.pdf)
+
+### 🚀 Como Executar
+
+1. Certifique-se de ter o **Python** instalado no seu ambiente.
+2. Instale as dependências necessárias executando o comando abaixo no terminal:
    ```bash
    pip install pandas matplotlib numpy
