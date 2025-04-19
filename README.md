@@ -1,6 +1,6 @@
 # Complexidade_algoritmos
 1. 
-##2. N1-Complex - FEITO - TEMPO DE EXECUÇÃO DOS ALGORITMOS DE ORDENAÇÃO E PLOTANDO O CRESCIMENTO NO GRÁFICO
+## 2. N1-Complex - FEITO - TEMPO DE EXECUÇÃO DOS ALGORITMOS DE ORDENAÇÃO E PLOTANDO O CRESCIMENTO NO GRÁFICO
 Este repositório contém a análise de desempenho de três algoritmos de ordenação: **BubbleSort**, **MergeSort** e **QuickSort**.
 
 ## Conteúdo
